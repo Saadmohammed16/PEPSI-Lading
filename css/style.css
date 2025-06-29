@@ -199,6 +199,9 @@ nav ul a {
 }
 /* Small screen */
 @media (min-width: 200px) and (max-width: 599px) {
+    #header .content .content-text h1 {
+        marign-top: 5px;
+    }
     .social {
         margin-bottom: 30px;
     }
