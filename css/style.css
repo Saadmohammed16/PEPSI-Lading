@@ -197,3 +197,12 @@ nav ul a {
         font-size: 12px;
     }
 }
+/* Small screen */
+@media (min-width: 200px) and (max-width: 599px) {
+    .social {
+        margin-bottom: 30px;
+    }
+    .gallery {
+        margin-top: 60px;
+    }
+}
